@@ -1,0 +1,10 @@
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Tehtävä11\Tehtävä11\obj\Debug\Tehtävä11.csproj.AssemblyReference.cache
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Tehtävä11\Tehtävä11\obj\Debug\Tehtävä11.Form1.resources
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Tehtävä11\Tehtävä11\obj\Debug\Tehtävä11.Properties.Resources.resources
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Tehtävä11\Tehtävä11\obj\Debug\Tehtävä11.csproj.GenerateResource.cache
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Tehtävä11\Tehtävä11\obj\Debug\Tehtävä11.csproj.CoreCompileInputs.cache
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Tehtävä11\Tehtävä11\bin\Debug\Tehtävä11.exe.config
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Tehtävä11\Tehtävä11\bin\Debug\Tehtävä11.exe
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Tehtävä11\Tehtävä11\bin\Debug\Tehtävä11.pdb
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Tehtävä11\Tehtävä11\obj\Debug\Tehtävä11.exe
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Tehtävä11\Tehtävä11\obj\Debug\Tehtävä11.pdb

@@ -1,0 +1,15 @@
+C:\Users\roosa\source\repos\ohjelmistokehittaja\YksiNumerot\YksiNumerot\bin\Debug\net10.0\YksiNumerot.exe
+C:\Users\roosa\source\repos\ohjelmistokehittaja\YksiNumerot\YksiNumerot\bin\Debug\net10.0\YksiNumerot.deps.json
+C:\Users\roosa\source\repos\ohjelmistokehittaja\YksiNumerot\YksiNumerot\bin\Debug\net10.0\YksiNumerot.runtimeconfig.json
+C:\Users\roosa\source\repos\ohjelmistokehittaja\YksiNumerot\YksiNumerot\bin\Debug\net10.0\YksiNumerot.dll
+C:\Users\roosa\source\repos\ohjelmistokehittaja\YksiNumerot\YksiNumerot\bin\Debug\net10.0\YksiNumerot.pdb
+C:\Users\roosa\source\repos\ohjelmistokehittaja\YksiNumerot\YksiNumerot\obj\Debug\net10.0\YksiNumerot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roosa\source\repos\ohjelmistokehittaja\YksiNumerot\YksiNumerot\obj\Debug\net10.0\YksiNumerot.AssemblyInfoInputs.cache
+C:\Users\roosa\source\repos\ohjelmistokehittaja\YksiNumerot\YksiNumerot\obj\Debug\net10.0\YksiNumerot.AssemblyInfo.cs
+C:\Users\roosa\source\repos\ohjelmistokehittaja\YksiNumerot\YksiNumerot\obj\Debug\net10.0\YksiNumerot.csproj.CoreCompileInputs.cache
+C:\Users\roosa\source\repos\ohjelmistokehittaja\YksiNumerot\YksiNumerot\obj\Debug\net10.0\YksiNumerot.sourcelink.json
+C:\Users\roosa\source\repos\ohjelmistokehittaja\YksiNumerot\YksiNumerot\obj\Debug\net10.0\YksiNumerot.dll
+C:\Users\roosa\source\repos\ohjelmistokehittaja\YksiNumerot\YksiNumerot\obj\Debug\net10.0\refint\YksiNumerot.dll
+C:\Users\roosa\source\repos\ohjelmistokehittaja\YksiNumerot\YksiNumerot\obj\Debug\net10.0\YksiNumerot.pdb
+C:\Users\roosa\source\repos\ohjelmistokehittaja\YksiNumerot\YksiNumerot\obj\Debug\net10.0\YksiNumerot.genruntimeconfig.cache
+C:\Users\roosa\source\repos\ohjelmistokehittaja\YksiNumerot\YksiNumerot\obj\Debug\net10.0\ref\YksiNumerot.dll

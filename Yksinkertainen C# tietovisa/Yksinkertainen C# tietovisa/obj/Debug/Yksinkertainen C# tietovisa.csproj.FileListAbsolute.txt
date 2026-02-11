@@ -1,0 +1,10 @@
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Yksinkertainen C# tietovisa\Yksinkertainen C# tietovisa\obj\Debug\Yksinkertainen C# tietovisa.csproj.AssemblyReference.cache
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Yksinkertainen C# tietovisa\Yksinkertainen C# tietovisa\obj\Debug\Yksinkertainen_C__tietovisa.Form1.resources
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Yksinkertainen C# tietovisa\Yksinkertainen C# tietovisa\obj\Debug\Yksinkertainen_C__tietovisa.Properties.Resources.resources
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Yksinkertainen C# tietovisa\Yksinkertainen C# tietovisa\obj\Debug\Yksinkertainen C# tietovisa.csproj.GenerateResource.cache
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Yksinkertainen C# tietovisa\Yksinkertainen C# tietovisa\obj\Debug\Yksinkertainen C# tietovisa.csproj.CoreCompileInputs.cache
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Yksinkertainen C# tietovisa\Yksinkertainen C# tietovisa\bin\Debug\Yksinkertainen C# tietovisa.exe.config
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Yksinkertainen C# tietovisa\Yksinkertainen C# tietovisa\bin\Debug\Yksinkertainen C# tietovisa.exe
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Yksinkertainen C# tietovisa\Yksinkertainen C# tietovisa\bin\Debug\Yksinkertainen C# tietovisa.pdb
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Yksinkertainen C# tietovisa\Yksinkertainen C# tietovisa\obj\Debug\Yksinkertainen C# tietovisa.exe
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Yksinkertainen C# tietovisa\Yksinkertainen C# tietovisa\obj\Debug\Yksinkertainen C# tietovisa.pdb

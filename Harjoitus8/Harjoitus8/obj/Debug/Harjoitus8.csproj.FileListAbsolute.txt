@@ -1,0 +1,10 @@
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Harjoitus8\Harjoitus8\obj\Debug\Harjoitus8.csproj.AssemblyReference.cache
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Harjoitus8\Harjoitus8\obj\Debug\Harjoitus8.Form1.resources
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Harjoitus8\Harjoitus8\obj\Debug\Harjoitus8.Properties.Resources.resources
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Harjoitus8\Harjoitus8\obj\Debug\Harjoitus8.csproj.GenerateResource.cache
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Harjoitus8\Harjoitus8\obj\Debug\Harjoitus8.csproj.CoreCompileInputs.cache
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Harjoitus8\Harjoitus8\bin\Debug\Harjoitus8.exe.config
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Harjoitus8\Harjoitus8\bin\Debug\Harjoitus8.exe
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Harjoitus8\Harjoitus8\bin\Debug\Harjoitus8.pdb
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Harjoitus8\Harjoitus8\obj\Debug\Harjoitus8.exe
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Harjoitus8\Harjoitus8\obj\Debug\Harjoitus8.pdb

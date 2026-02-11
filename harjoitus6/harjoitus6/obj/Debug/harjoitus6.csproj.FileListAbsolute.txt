@@ -1,0 +1,10 @@
+C:\Users\roosa\source\repos\ohjelmistokehittaja\harjoitus6\harjoitus6\bin\Debug\harjoitus6.exe.config
+C:\Users\roosa\source\repos\ohjelmistokehittaja\harjoitus6\harjoitus6\bin\Debug\harjoitus6.exe
+C:\Users\roosa\source\repos\ohjelmistokehittaja\harjoitus6\harjoitus6\bin\Debug\harjoitus6.pdb
+C:\Users\roosa\source\repos\ohjelmistokehittaja\harjoitus6\harjoitus6\obj\Debug\harjoitus6.csproj.AssemblyReference.cache
+C:\Users\roosa\source\repos\ohjelmistokehittaja\harjoitus6\harjoitus6\obj\Debug\harjoitus6.SalasananTarkastusFM.resources
+C:\Users\roosa\source\repos\ohjelmistokehittaja\harjoitus6\harjoitus6\obj\Debug\harjoitus6.Properties.Resources.resources
+C:\Users\roosa\source\repos\ohjelmistokehittaja\harjoitus6\harjoitus6\obj\Debug\harjoitus6.csproj.GenerateResource.cache
+C:\Users\roosa\source\repos\ohjelmistokehittaja\harjoitus6\harjoitus6\obj\Debug\harjoitus6.csproj.CoreCompileInputs.cache
+C:\Users\roosa\source\repos\ohjelmistokehittaja\harjoitus6\harjoitus6\obj\Debug\harjoitus6.exe
+C:\Users\roosa\source\repos\ohjelmistokehittaja\harjoitus6\harjoitus6\obj\Debug\harjoitus6.pdb

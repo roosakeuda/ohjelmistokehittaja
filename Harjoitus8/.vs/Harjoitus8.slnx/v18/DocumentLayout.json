@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Harjoitus8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA5875F-9B82-41AF-8DB0-E545CE86D6F1}|Harjoitus8\\Harjoitus8.csproj|c:\\users\\roosa\\source\\repos\\ohjelmistokehittaja\\harjoitus8\\harjoitus8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA5875F-9B82-41AF-8DB0-E545CE86D6F1}|Harjoitus8\\Harjoitus8.csproj|solutionrelative:harjoitus8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA5875F-9B82-41AF-8DB0-E545CE86D6F1}|Harjoitus8\\Harjoitus8.csproj|C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Harjoitus8\\harjoitus8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DA5875F-9B82-41AF-8DB0-E545CE86D6F1}|Harjoitus8\\Harjoitus8.csproj|solutionrelative:harjoitus8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Harjoitus8\\Harjoitus8\\Form1.cs",
+              "RelativeDocumentMoniker": "Harjoitus8\\Form1.cs",
+              "ToolTip": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Harjoitus8\\Harjoitus8\\Form1.cs",
+              "RelativeToolTip": "Harjoitus8\\Form1.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAqwDQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T10:01:01.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Harjoitus8\\Harjoitus8\\Form1.cs",
+              "RelativeDocumentMoniker": "Harjoitus8\\Form1.cs",
+              "ToolTip": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Harjoitus8\\Harjoitus8\\Form1.cs [Design]",
+              "RelativeToolTip": "Harjoitus8\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T09:59:51.854Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

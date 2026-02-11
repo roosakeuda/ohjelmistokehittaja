@@ -1,0 +1,10 @@
+C:\Users\roosa\source\repos\ohjelmistokehittaja\tehtävä13\tehtävä13\bin\Debug\tehtävä13.exe.config
+C:\Users\roosa\source\repos\ohjelmistokehittaja\tehtävä13\tehtävä13\bin\Debug\tehtävä13.exe
+C:\Users\roosa\source\repos\ohjelmistokehittaja\tehtävä13\tehtävä13\bin\Debug\tehtävä13.pdb
+C:\Users\roosa\source\repos\ohjelmistokehittaja\tehtävä13\tehtävä13\obj\Debug\tehtävä13.csproj.AssemblyReference.cache
+C:\Users\roosa\source\repos\ohjelmistokehittaja\tehtävä13\tehtävä13\obj\Debug\tehtävä13.SuosikitFM.resources
+C:\Users\roosa\source\repos\ohjelmistokehittaja\tehtävä13\tehtävä13\obj\Debug\tehtävä13.Properties.Resources.resources
+C:\Users\roosa\source\repos\ohjelmistokehittaja\tehtävä13\tehtävä13\obj\Debug\tehtävä13.csproj.GenerateResource.cache
+C:\Users\roosa\source\repos\ohjelmistokehittaja\tehtävä13\tehtävä13\obj\Debug\tehtävä13.csproj.CoreCompileInputs.cache
+C:\Users\roosa\source\repos\ohjelmistokehittaja\tehtävä13\tehtävä13\obj\Debug\tehtävä13.exe
+C:\Users\roosa\source\repos\ohjelmistokehittaja\tehtävä13\tehtävä13\obj\Debug\tehtävä13.pdb

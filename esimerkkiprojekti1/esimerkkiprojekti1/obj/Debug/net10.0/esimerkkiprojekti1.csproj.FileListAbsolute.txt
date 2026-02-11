@@ -1,0 +1,15 @@
+C:\Users\roosa\source\repos\ohjelmistokehittaja\esimerkkiprojekti1\esimerkkiprojekti1\bin\Debug\net10.0\esimerkkiprojekti1.exe
+C:\Users\roosa\source\repos\ohjelmistokehittaja\esimerkkiprojekti1\esimerkkiprojekti1\bin\Debug\net10.0\esimerkkiprojekti1.deps.json
+C:\Users\roosa\source\repos\ohjelmistokehittaja\esimerkkiprojekti1\esimerkkiprojekti1\bin\Debug\net10.0\esimerkkiprojekti1.runtimeconfig.json
+C:\Users\roosa\source\repos\ohjelmistokehittaja\esimerkkiprojekti1\esimerkkiprojekti1\bin\Debug\net10.0\esimerkkiprojekti1.dll
+C:\Users\roosa\source\repos\ohjelmistokehittaja\esimerkkiprojekti1\esimerkkiprojekti1\bin\Debug\net10.0\esimerkkiprojekti1.pdb
+C:\Users\roosa\source\repos\ohjelmistokehittaja\esimerkkiprojekti1\esimerkkiprojekti1\obj\Debug\net10.0\esimerkkiprojekti1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roosa\source\repos\ohjelmistokehittaja\esimerkkiprojekti1\esimerkkiprojekti1\obj\Debug\net10.0\esimerkkiprojekti1.AssemblyInfoInputs.cache
+C:\Users\roosa\source\repos\ohjelmistokehittaja\esimerkkiprojekti1\esimerkkiprojekti1\obj\Debug\net10.0\esimerkkiprojekti1.AssemblyInfo.cs
+C:\Users\roosa\source\repos\ohjelmistokehittaja\esimerkkiprojekti1\esimerkkiprojekti1\obj\Debug\net10.0\esimerkkiprojekti1.csproj.CoreCompileInputs.cache
+C:\Users\roosa\source\repos\ohjelmistokehittaja\esimerkkiprojekti1\esimerkkiprojekti1\obj\Debug\net10.0\esimerkkiprojekti1.sourcelink.json
+C:\Users\roosa\source\repos\ohjelmistokehittaja\esimerkkiprojekti1\esimerkkiprojekti1\obj\Debug\net10.0\esimerkkiprojekti1.dll
+C:\Users\roosa\source\repos\ohjelmistokehittaja\esimerkkiprojekti1\esimerkkiprojekti1\obj\Debug\net10.0\refint\esimerkkiprojekti1.dll
+C:\Users\roosa\source\repos\ohjelmistokehittaja\esimerkkiprojekti1\esimerkkiprojekti1\obj\Debug\net10.0\esimerkkiprojekti1.pdb
+C:\Users\roosa\source\repos\ohjelmistokehittaja\esimerkkiprojekti1\esimerkkiprojekti1\obj\Debug\net10.0\esimerkkiprojekti1.genruntimeconfig.cache
+C:\Users\roosa\source\repos\ohjelmistokehittaja\esimerkkiprojekti1\esimerkkiprojekti1\obj\Debug\net10.0\ref\esimerkkiprojekti1.dll
