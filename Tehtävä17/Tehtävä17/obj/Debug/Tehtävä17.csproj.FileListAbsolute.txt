@@ -1,0 +1,6 @@
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Tehtävä17\Tehtävä17\obj\Debug\Tehtävä17.csproj.AssemblyReference.cache
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Tehtävä17\Tehtävä17\obj\Debug\Tehtävä17.Muistio.resources
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Tehtävä17\Tehtävä17\obj\Debug\Tehtävä17.tietoa.resources
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Tehtävä17\Tehtävä17\obj\Debug\Tehtävä17.Properties.Resources.resources
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Tehtävä17\Tehtävä17\obj\Debug\Tehtävä17.csproj.GenerateResource.cache
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Tehtävä17\Tehtävä17\obj\Debug\Tehtävä17.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Tehtävä19\Tehtävä19\obj\Debug\Tehtävä19.csproj.AssemblyReference.cache
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Tehtävä19\Tehtävä19\obj\Debug\Tehtävä19.Properties.Resources.resources
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Tehtävä19\Tehtävä19\obj\Debug\Tehtävä19.csproj.GenerateResource.cache
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Tehtävä19\Tehtävä19\obj\Debug\Tehtävä19.csproj.CoreCompileInputs.cache
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Tehtävä19\Tehtävä19\bin\Debug\Tehtävä19.exe.config
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Tehtävä19\Tehtävä19\bin\Debug\Tehtävä19.exe
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Tehtävä19\Tehtävä19\bin\Debug\Tehtävä19.pdb
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Tehtävä19\Tehtävä19\obj\Debug\Tehtävä19.RuokalistaFM.resources
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Tehtävä19\Tehtävä19\obj\Debug\Tehtävä19.exe
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Tehtävä19\Tehtävä19\obj\Debug\Tehtävä19.pdb

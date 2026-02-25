@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Teht\u00E4v\u00E417\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4149C58-10C3-4E41-8237-F00FAE2B3315}|Teht\u00E4v\u00E417\\Teht\u00E4v\u00E417.csproj|c:\\users\\roosa\\source\\repos\\ohjelmistokehittaja\\teht\u00E4v\u00E417\\teht\u00E4v\u00E417\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4149C58-10C3-4E41-8237-F00FAE2B3315}|Teht\u00E4v\u00E417\\Teht\u00E4v\u00E417.csproj|solutionrelative:teht\u00E4v\u00E417\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4149C58-10C3-4E41-8237-F00FAE2B3315}|Teht\u00E4v\u00E417\\Teht\u00E4v\u00E417.csproj|c:\\users\\roosa\\source\\repos\\ohjelmistokehittaja\\teht\u00E4v\u00E417\\teht\u00E4v\u00E417\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4149C58-10C3-4E41-8237-F00FAE2B3315}|Teht\u00E4v\u00E417\\Teht\u00E4v\u00E417.csproj|solutionrelative:teht\u00E4v\u00E417\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4149C58-10C3-4E41-8237-F00FAE2B3315}|Teht\u00E4v\u00E417\\Teht\u00E4v\u00E417.csproj|c:\\users\\roosa\\source\\repos\\ohjelmistokehittaja\\teht\u00E4v\u00E417\\teht\u00E4v\u00E417\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4149C58-10C3-4E41-8237-F00FAE2B3315}|Teht\u00E4v\u00E417\\Teht\u00E4v\u00E417.csproj|solutionrelative:teht\u00E4v\u00E417\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4149C58-10C3-4E41-8237-F00FAE2B3315}|Teht\u00E4v\u00E417\\Teht\u00E4v\u00E417.csproj|c:\\users\\roosa\\source\\repos\\ohjelmistokehittaja\\teht\u00E4v\u00E417\\teht\u00E4v\u00E417\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4149C58-10C3-4E41-8237-F00FAE2B3315}|Teht\u00E4v\u00E417\\Teht\u00E4v\u00E417.csproj|solutionrelative:teht\u00E4v\u00E417\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 337,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 54,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Teht\u00E4v\u00E417\\Teht\u00E4v\u00E417\\Form2.cs",
+              "RelativeDocumentMoniker": "Teht\u00E4v\u00E417\\Form2.cs",
+              "ToolTip": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Teht\u00E4v\u00E417\\Teht\u00E4v\u00E417\\Form2.cs",
+              "RelativeToolTip": "Teht\u00E4v\u00E417\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T10:15:40.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Teht\u00E4v\u00E417\\Teht\u00E4v\u00E417\\Form2.cs",
+              "RelativeDocumentMoniker": "Teht\u00E4v\u00E417\\Form2.cs",
+              "ToolTip": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Teht\u00E4v\u00E417\\Teht\u00E4v\u00E417\\Form2.cs [Design]",
+              "RelativeToolTip": "Teht\u00E4v\u00E417\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T10:15:20.316Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Teht\u00E4v\u00E417\\Teht\u00E4v\u00E417\\Form1.cs",
+              "RelativeDocumentMoniker": "Teht\u00E4v\u00E417\\Form1.cs",
+              "ToolTip": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Teht\u00E4v\u00E417\\Teht\u00E4v\u00E417\\Form1.cs",
+              "RelativeToolTip": "Teht\u00E4v\u00E417\\Form1.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAQwLoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:41:29.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Teht\u00E4v\u00E417\\Teht\u00E4v\u00E417\\Form1.cs",
+              "RelativeDocumentMoniker": "Teht\u00E4v\u00E417\\Form1.cs",
+              "ToolTip": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Teht\u00E4v\u00E417\\Teht\u00E4v\u00E417\\Form1.cs [Design]",
+              "RelativeToolTip": "Teht\u00E4v\u00E417\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:37:23.598Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 36,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

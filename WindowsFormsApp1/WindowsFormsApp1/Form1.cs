@@ -42,10 +42,9 @@ namespace WindowsFormsApp1
         {
             sekkari.Reset();
         }
-
         private void AjastinTR_Tick(object sender, EventArgs e)
         {
-            KelloLB.Text = String.Format("{0:hh\\:mm\\:ss\\:fff}");
+            KelloLB.Text = String.Format("{0:hh\\:mm\\:ss\\:fff}", sekkari.Elapsed);
         }
     }
 }
