@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Harjoitus18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{577F91B8-43DD-4C87-B3C4-61BDD148D07A}|Harjoitus18\\Harjoitus18.csproj|c:\\users\\roosa\\source\\repos\\ohjelmistokehittaja\\harjoitus18\\harjoitus18\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577F91B8-43DD-4C87-B3C4-61BDD148D07A}|Harjoitus18\\Harjoitus18.csproj|solutionrelative:harjoitus18\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577F91B8-43DD-4C87-B3C4-61BDD148D07A}|Harjoitus18\\Harjoitus18.csproj|c:\\users\\roosa\\source\\repos\\ohjelmistokehittaja\\harjoitus18\\harjoitus18\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{577F91B8-43DD-4C87-B3C4-61BDD148D07A}|Harjoitus18\\Harjoitus18.csproj|solutionrelative:harjoitus18\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 131,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 231,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Harjoitus18\\Harjoitus18\\Form1.cs",
+              "RelativeDocumentMoniker": "Harjoitus18\\Form1.cs",
+              "ToolTip": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Harjoitus18\\Harjoitus18\\Form1.cs",
+              "RelativeToolTip": "Harjoitus18\\Form1.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAiwD0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:00:46.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Harjoitus18\\Harjoitus18\\Form1.cs",
+              "RelativeDocumentMoniker": "Harjoitus18\\Form1.cs",
+              "ToolTip": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Harjoitus18\\Harjoitus18\\Form1.cs [Design]",
+              "RelativeToolTip": "Harjoitus18\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T06:53:37.546Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 9,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
