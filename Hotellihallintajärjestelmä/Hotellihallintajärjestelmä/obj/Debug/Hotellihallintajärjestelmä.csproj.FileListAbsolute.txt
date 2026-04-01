@@ -40,3 +40,6 @@ C:\Users\roosa\source\repos\ohjelmistokehittaja\Hotellihallintajärjestelmä\Hot
 C:\Users\roosa\source\repos\ohjelmistokehittaja\Hotellihallintajärjestelmä\Hotellihallintajärjestelmä\obj\Debug\Hotellih.BEA46511.Up2Date
 C:\Users\roosa\source\repos\ohjelmistokehittaja\Hotellihallintajärjestelmä\Hotellihallintajärjestelmä\obj\Debug\Hotellihallintajärjestelmä.exe
 C:\Users\roosa\source\repos\ohjelmistokehittaja\Hotellihallintajärjestelmä\Hotellihallintajärjestelmä\obj\Debug\Hotellihallintajärjestelmä.pdb
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Hotellihallintajärjestelmä\Hotellihallintajärjestelmä\obj\Debug\Hotellihallintajärjestelmä.AsiakkaidenHallinta.resources
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Hotellihallintajärjestelmä\Hotellihallintajärjestelmä\obj\Debug\Hotellihallintajärjestelmä.HuoneidenHallinta.resources
+C:\Users\roosa\source\repos\ohjelmistokehittaja\Hotellihallintajärjestelmä\Hotellihallintajärjestelmä\obj\Debug\Hotellihallintajärjestelmä.VaraustenHallinta.resources

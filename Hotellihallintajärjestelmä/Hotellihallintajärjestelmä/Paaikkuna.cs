@@ -24,19 +24,19 @@ namespace Hotellihallintajärjestelmä
 
         private void hallitseAsiakkaitaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            AsiakkaidenHallinta ahlomake = new Asiakkaidenhallinta();
+            AsiakkaidenHallinta ahlomake = new AsiakkaidenHallinta();
             ahlomake.ShowDialog();
         }
 
         private void hallitseVarauksiaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Varaustenhallinta vhlomake = new Varaustenhallinta();
+            VaraustenHallinta vhlomake = new VaraustenHallinta();
             vhlomake.ShowDialog();
         }
 
         private void hallitseHuoneitaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            VaraustenHallinta hhlomake = new VaraustenHallinta();
+            HuoneidenHallinta hhlomake = new HuoneidenHallinta();
             hhlomake.ShowDialog();
         }
     }

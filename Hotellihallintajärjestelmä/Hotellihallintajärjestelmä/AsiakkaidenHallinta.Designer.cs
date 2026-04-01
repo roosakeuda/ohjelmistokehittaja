@@ -30,7 +30,7 @@
         {
             this.panel1 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.asiakkaatDG = new System.Windows.Forms.DataGridView();
             this.enimiTB = new System.Windows.Forms.TextBox();
             this.postinTB = new System.Windows.Forms.TextBox();
             this.ppaikkaTB = new System.Windows.Forms.TextBox();
@@ -50,7 +50,7 @@
             this.label7 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.asiakkaatDG)).BeginInit();
             this.SuspendLayout();
             // 
             // panel1
@@ -59,7 +59,7 @@
             this.panel1.Controls.Add(this.label1);
             this.panel1.Location = new System.Drawing.Point(-1, -1);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1248, 96);
+            this.panel1.Size = new System.Drawing.Size(1594, 96);
             this.panel1.TabIndex = 0;
             // 
             // label1
@@ -68,21 +68,23 @@
             this.label1.BackColor = System.Drawing.Color.CadetBlue;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 26F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.DarkSlateGray;
-            this.label1.Location = new System.Drawing.Point(396, 10);
+            this.label1.Location = new System.Drawing.Point(566, 19);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(502, 59);
             this.label1.TabIndex = 0;
             this.label1.Text = "Asiakkaiden hallinta";
             // 
-            // dataGridView1
+            // asiakkaatDG
             // 
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(575, 145);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.RowHeadersWidth = 62;
-            this.dataGridView1.RowTemplate.Height = 28;
-            this.dataGridView1.Size = new System.Drawing.Size(658, 493);
-            this.dataGridView1.TabIndex = 1;
+            this.asiakkaatDG.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.asiakkaatDG.Location = new System.Drawing.Point(575, 145);
+            this.asiakkaatDG.Name = "asiakkaatDG";
+            this.asiakkaatDG.RowHeadersWidth = 62;
+            this.asiakkaatDG.RowTemplate.Height = 28;
+            this.asiakkaatDG.Size = new System.Drawing.Size(998, 493);
+            this.asiakkaatDG.TabIndex = 1;
+            this.asiakkaatDG.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.asiakkaatDG_CellClick);
+            this.asiakkaatDG.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.asiakkaatDG_CellContentClick);
             // 
             // enimiTB
             // 
@@ -168,6 +170,7 @@
             this.LisaaBT.TabIndex = 9;
             this.LisaaBT.Text = "Lisää uusi asiakas";
             this.LisaaBT.UseVisualStyleBackColor = false;
+            this.LisaaBT.Click += new System.EventHandler(this.LisaaBT_Click);
             // 
             // TyhjennaBT
             // 
@@ -181,6 +184,7 @@
             this.TyhjennaBT.TabIndex = 10;
             this.TyhjennaBT.Text = "Tyhjennä kentät";
             this.TyhjennaBT.UseVisualStyleBackColor = false;
+            this.TyhjennaBT.Click += new System.EventHandler(this.TyhjennaBT_Click);
             // 
             // PoistaBT
             // 
@@ -194,6 +198,7 @@
             this.PoistaBT.TabIndex = 11;
             this.PoistaBT.Text = "Poista";
             this.PoistaBT.UseVisualStyleBackColor = false;
+            this.PoistaBT.Click += new System.EventHandler(this.PoistaBT_Click);
             // 
             // MuokkaaBT
             // 
@@ -207,6 +212,7 @@
             this.MuokkaaBT.TabIndex = 12;
             this.MuokkaaBT.Text = "Muokkaa";
             this.MuokkaaBT.UseVisualStyleBackColor = false;
+            this.MuokkaaBT.Click += new System.EventHandler(this.MuokkaaBT_Click);
             // 
             // label2
             // 
@@ -296,8 +302,9 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoScroll = true;
             this.BackColor = System.Drawing.Color.ForestGreen;
-            this.ClientSize = new System.Drawing.Size(1245, 650);
+            this.ClientSize = new System.Drawing.Size(1588, 650);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
@@ -316,14 +323,21 @@
             this.Controls.Add(this.ppaikkaTB);
             this.Controls.Add(this.postinTB);
             this.Controls.Add(this.enimiTB);
-            this.Controls.Add(this.dataGridView1);
+            this.Controls.Add(this.asiakkaatDG);
             this.Controls.Add(this.panel1);
+            this.MaximizeBox = false;
+            this.MaximumSize = new System.Drawing.Size(1610, 706);
+            this.MinimizeBox = false;
+            this.MinimumSize = new System.Drawing.Size(1610, 706);
             this.Name = "AsiakkaidenHallinta";
+            this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.WindowsDefaultBounds;
             this.Text = "AsiakkaidenHallinta";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.AsiakkaidenHallinta_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.asiakkaatDG)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -333,7 +347,7 @@
 
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.DataGridView asiakkaatDG;
         private System.Windows.Forms.TextBox enimiTB;
         private System.Windows.Forms.TextBox postinTB;
         private System.Windows.Forms.TextBox ppaikkaTB;

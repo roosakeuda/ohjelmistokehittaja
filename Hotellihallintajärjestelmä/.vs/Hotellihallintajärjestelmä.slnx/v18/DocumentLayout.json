@@ -3,165 +3,138 @@
   "WorkspaceRootPath": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|c:\\users\\roosa\\source\\repos\\ohjelmistokehittaja\\hotellihallintaj\u00E4rjestelm\u00E4\\hotellihallintaj\u00E4rjestelm\u00E4\\huoneidenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|solutionrelative:hotellihallintaj\u00E4rjestelm\u00E4\\huoneidenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|c:\\users\\roosa\\source\\repos\\ohjelmistokehittaja\\hotellihallintaj\u00E4rjestelm\u00E4\\hotellihallintaj\u00E4rjestelm\u00E4\\varaustenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|solutionrelative:hotellihallintaj\u00E4rjestelm\u00E4\\varaustenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|c:\\users\\roosa\\source\\repos\\ohjelmistokehittaja\\hotellihallintaj\u00E4rjestelm\u00E4\\hotellihallintaj\u00E4rjestelm\u00E4\\huoneidenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|solutionrelative:hotellihallintaj\u00E4rjestelm\u00E4\\huoneidenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\hotellihallintaj\u00E4rjestelm\u00E4\\asiakas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|solutionrelative:hotellihallintaj\u00E4rjestelm\u00E4\\asiakas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|c:\\users\\roosa\\source\\repos\\ohjelmistokehittaja\\hotellihallintaj\u00E4rjestelm\u00E4\\hotellihallintaj\u00E4rjestelm\u00E4\\varaukset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|solutionrelative:hotellihallintaj\u00E4rjestelm\u00E4\\varaukset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|c:\\users\\roosa\\source\\repos\\ohjelmistokehittaja\\hotellihallintaj\u00E4rjestelm\u00E4\\hotellihallintaj\u00E4rjestelm\u00E4\\varaustenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|solutionrelative:hotellihallintaj\u00E4rjestelm\u00E4\\varaustenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|c:\\users\\roosa\\source\\repos\\ohjelmistokehittaja\\hotellihallintaj\u00E4rjestelm\u00E4\\hotellihallintaj\u00E4rjestelm\u00E4\\varaustenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|solutionrelative:hotellihallintaj\u00E4rjestelm\u00E4\\varaustenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|c:\\users\\roosa\\source\\repos\\ohjelmistokehittaja\\hotellihallintaj\u00E4rjestelm\u00E4\\hotellihallintaj\u00E4rjestelm\u00E4\\huoneidenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|solutionrelative:hotellihallintaj\u00E4rjestelm\u00E4\\huoneidenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|c:\\users\\roosa\\source\\repos\\ohjelmistokehittaja\\hotellihallintaj\u00E4rjestelm\u00E4\\hotellihallintaj\u00E4rjestelm\u00E4\\asiakkaidenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\hotellihallintaj\u00E4rjestelm\u00E4\\huoneidenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|solutionrelative:hotellihallintaj\u00E4rjestelm\u00E4\\huoneidenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\hotellihallintaj\u00E4rjestelm\u00E4\\huone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|solutionrelative:hotellihallintaj\u00E4rjestelm\u00E4\\huone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\hotellihallintaj\u00E4rjestelm\u00E4\\asiakkaidenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|solutionrelative:hotellihallintaj\u00E4rjestelm\u00E4\\asiakkaidenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|c:\\users\\roosa\\source\\repos\\ohjelmistokehittaja\\hotellihallintaj\u00E4rjestelm\u00E4\\hotellihallintaj\u00E4rjestelm\u00E4\\asiakkaidenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|solutionrelative:hotellihallintaj\u00E4rjestelm\u00E4\\asiakkaidenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|c:\\users\\roosa\\source\\repos\\ohjelmistokehittaja\\hotellihallintaj\u00E4rjestelm\u00E4\\hotellihallintaj\u00E4rjestelm\u00E4\\kirjautumisikkuna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|solutionrelative:hotellihallintaj\u00E4rjestelm\u00E4\\kirjautumisikkuna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|c:\\users\\roosa\\source\\repos\\ohjelmistokehittaja\\hotellihallintaj\u00E4rjestelm\u00E4\\hotellihallintaj\u00E4rjestelm\u00E4\\kirjautumisikkuna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\hotellihallintaj\u00E4rjestelm\u00E4\\kirjautumisikkuna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|solutionrelative:hotellihallintaj\u00E4rjestelm\u00E4\\kirjautumisikkuna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|c:\\users\\roosa\\source\\repos\\ohjelmistokehittaja\\hotellihallintaj\u00E4rjestelm\u00E4\\hotellihallintaj\u00E4rjestelm\u00E4\\paaikkuna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|c:\\users\\roosa\\source\\repos\\ohjelmistokehittaja\\hotellihallintaj\u00E4rjestelm\u00E4\\hotellihallintaj\u00E4rjestelm\u00E4\\asiakkaidenhallinta.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|solutionrelative:hotellihallintaj\u00E4rjestelm\u00E4\\asiakkaidenhallinta.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\hotellihallintaj\u00E4rjestelm\u00E4\\asiakkaidenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|solutionrelative:hotellihallintaj\u00E4rjestelm\u00E4\\asiakkaidenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\hotellihallintaj\u00E4rjestelm\u00E4\\paaikkuna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|solutionrelative:hotellihallintaj\u00E4rjestelm\u00E4\\paaikkuna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|c:\\users\\roosa\\source\\repos\\ohjelmistokehittaja\\hotellihallintaj\u00E4rjestelm\u00E4\\hotellihallintaj\u00E4rjestelm\u00E4\\paaikkuna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\hotellihallintaj\u00E4rjestelm\u00E4\\paaikkuna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|solutionrelative:hotellihallintaj\u00E4rjestelm\u00E4\\paaikkuna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|c:\\users\\roosa\\source\\repos\\ohjelmistokehittaja\\hotellihallintaj\u00E4rjestelm\u00E4\\hotellihallintaj\u00E4rjestelm\u00E4\\yhdista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|solutionrelative:hotellihallintaj\u00E4rjestelm\u00E4\\yhdista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\hotellihallintaj\u00E4rjestelm\u00E4\\kirjautumisikkuna.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F7525A-198F-450A-89EE-ABD378AA55EB}|Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4.csproj|solutionrelative:hotellihallintaj\u00E4rjestelm\u00E4\\kirjautumisikkuna.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 149,
+      "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 232,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "VARAUKSET.cs",
+              "DocumentMoniker": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\VARAUKSET.cs",
+              "RelativeDocumentMoniker": "Hotellihallintaj\u00E4rjestelm\u00E4\\VARAUKSET.cs",
+              "ToolTip": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\VARAUKSET.cs",
+              "RelativeToolTip": "Hotellihallintaj\u00E4rjestelm\u00E4\\VARAUKSET.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T11:23:11.235Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "HuoneidenHallinta.cs",
               "DocumentMoniker": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\HuoneidenHallinta.cs",
               "RelativeDocumentMoniker": "Hotellihallintaj\u00E4rjestelm\u00E4\\HuoneidenHallinta.cs",
               "ToolTip": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\HuoneidenHallinta.cs",
               "RelativeToolTip": "Hotellihallintaj\u00E4rjestelm\u00E4\\HuoneidenHallinta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAmwKYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T11:13:16.358Z",
+              "WhenOpened": "2026-03-16T07:49:57.601Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HuoneidenHallinta.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\HuoneidenHallinta.cs",
-              "RelativeDocumentMoniker": "Hotellihallintaj\u00E4rjestelm\u00E4\\HuoneidenHallinta.cs",
-              "ToolTip": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\HuoneidenHallinta.cs [Design]",
-              "RelativeToolTip": "Hotellihallintaj\u00E4rjestelm\u00E4\\HuoneidenHallinta.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T11:11:20.847Z",
-              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "VaraustenHallinta.cs",
-              "DocumentMoniker": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\VaraustenHallinta.cs",
-              "RelativeDocumentMoniker": "Hotellihallintaj\u00E4rjestelm\u00E4\\VaraustenHallinta.cs",
-              "ToolTip": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\VaraustenHallinta.cs",
-              "RelativeToolTip": "Hotellihallintaj\u00E4rjestelm\u00E4\\VaraustenHallinta.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAMwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T11:00:35.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "VaraustenHallinta.cs [Design]",
               "DocumentMoniker": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\VaraustenHallinta.cs",
               "RelativeDocumentMoniker": "Hotellihallintaj\u00E4rjestelm\u00E4\\VaraustenHallinta.cs",
               "ToolTip": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\VaraustenHallinta.cs [Design]",
               "RelativeToolTip": "Hotellihallintaj\u00E4rjestelm\u00E4\\VaraustenHallinta.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T10:58:02.687Z",
+              "WhenOpened": "2026-03-18T11:05:54.433Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AsiakkaidenHallinta.cs",
-              "DocumentMoniker": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\AsiakkaidenHallinta.cs",
-              "RelativeDocumentMoniker": "Hotellihallintaj\u00E4rjestelm\u00E4\\AsiakkaidenHallinta.cs",
-              "ToolTip": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\AsiakkaidenHallinta.cs",
-              "RelativeToolTip": "Hotellihallintaj\u00E4rjestelm\u00E4\\AsiakkaidenHallinta.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAWwBoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "VaraustenHallinta.cs",
+              "DocumentMoniker": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\VaraustenHallinta.cs",
+              "RelativeDocumentMoniker": "Hotellihallintaj\u00E4rjestelm\u00E4\\VaraustenHallinta.cs",
+              "ToolTip": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\VaraustenHallinta.cs",
+              "RelativeToolTip": "Hotellihallintaj\u00E4rjestelm\u00E4\\VaraustenHallinta.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAswIQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T10:42:12.025Z",
+              "WhenOpened": "2026-03-19T08:55:51.935Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AsiakkaidenHallinta.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\AsiakkaidenHallinta.cs",
-              "RelativeDocumentMoniker": "Hotellihallintaj\u00E4rjestelm\u00E4\\AsiakkaidenHallinta.cs",
-              "ToolTip": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\AsiakkaidenHallinta.cs [Design]",
-              "RelativeToolTip": "Hotellihallintaj\u00E4rjestelm\u00E4\\AsiakkaidenHallinta.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "ASIAKAS.cs",
+              "DocumentMoniker": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\ASIAKAS.cs",
+              "RelativeDocumentMoniker": "Hotellihallintaj\u00E4rjestelm\u00E4\\ASIAKAS.cs",
+              "ToolTip": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\ASIAKAS.cs",
+              "RelativeToolTip": "Hotellihallintaj\u00E4rjestelm\u00E4\\ASIAKAS.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAuwEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T10:33:52.328Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Paaikkuna.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\Paaikkuna.cs",
-              "RelativeDocumentMoniker": "Hotellihallintaj\u00E4rjestelm\u00E4\\Paaikkuna.cs",
-              "ToolTip": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\Paaikkuna.cs [Design]",
-              "RelativeToolTip": "Hotellihallintaj\u00E4rjestelm\u00E4\\Paaikkuna.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T12:14:33.72Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Kirjautumisikkuna.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\Kirjautumisikkuna.cs",
-              "RelativeDocumentMoniker": "Hotellihallintaj\u00E4rjestelm\u00E4\\Kirjautumisikkuna.cs",
-              "ToolTip": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\Kirjautumisikkuna.cs [Design]",
-              "RelativeToolTip": "Hotellihallintaj\u00E4rjestelm\u00E4\\Kirjautumisikkuna.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T08:17:02.114Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Paaikkuna.cs",
-              "DocumentMoniker": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\Paaikkuna.cs",
-              "RelativeDocumentMoniker": "Hotellihallintaj\u00E4rjestelm\u00E4\\Paaikkuna.cs",
-              "ToolTip": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\Paaikkuna.cs",
-              "RelativeToolTip": "Hotellihallintaj\u00E4rjestelm\u00E4\\Paaikkuna.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAArwCcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T12:17:22.018Z",
+              "WhenOpened": "2026-03-04T06:40:33.006Z",
               "EditorCaption": ""
             },
             {
@@ -169,27 +142,134 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Yhdista.cs",
-              "DocumentMoniker": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\Yhdista.cs",
-              "RelativeDocumentMoniker": "Hotellihallintaj\u00E4rjestelm\u00E4\\Yhdista.cs",
-              "ToolTip": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\Yhdista.cs",
-              "RelativeToolTip": "Hotellihallintaj\u00E4rjestelm\u00E4\\Yhdista.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T10:56:36.172Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 8,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HuoneidenHallinta.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\HuoneidenHallinta.cs",
+              "RelativeDocumentMoniker": "Hotellihallintaj\u00E4rjestelm\u00E4\\HuoneidenHallinta.cs",
+              "ToolTip": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\HuoneidenHallinta.cs [Design]",
+              "RelativeToolTip": "Hotellihallintaj\u00E4rjestelm\u00E4\\HuoneidenHallinta.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T07:41:43.588Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Huone.cs",
+              "DocumentMoniker": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\Huone.cs",
+              "RelativeDocumentMoniker": "Hotellihallintaj\u00E4rjestelm\u00E4\\Huone.cs",
+              "ToolTip": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\Huone.cs",
+              "RelativeToolTip": "Hotellihallintaj\u00E4rjestelm\u00E4\\Huone.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAADwv8gAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T12:23:57.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AsiakkaidenHallinta.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\AsiakkaidenHallinta.cs",
+              "RelativeDocumentMoniker": "Hotellihallintaj\u00E4rjestelm\u00E4\\AsiakkaidenHallinta.cs",
+              "ToolTip": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\AsiakkaidenHallinta.cs [Design]",
+              "RelativeToolTip": "Hotellihallintaj\u00E4rjestelm\u00E4\\AsiakkaidenHallinta.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T07:41:35.392Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Kirjautumisikkuna.cs",
+              "DocumentMoniker": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\Kirjautumisikkuna.cs",
+              "RelativeDocumentMoniker": "Hotellihallintaj\u00E4rjestelm\u00E4\\Kirjautumisikkuna.cs",
+              "ToolTip": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\Kirjautumisikkuna.cs",
+              "RelativeToolTip": "Hotellihallintaj\u00E4rjestelm\u00E4\\Kirjautumisikkuna.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAArwCwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T08:42:17.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Kirjautumisikkuna.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\Kirjautumisikkuna.cs",
+              "RelativeDocumentMoniker": "Hotellihallintaj\u00E4rjestelm\u00E4\\Kirjautumisikkuna.cs",
+              "ToolTip": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\Kirjautumisikkuna.cs [Design]",
+              "RelativeToolTip": "Hotellihallintaj\u00E4rjestelm\u00E4\\Kirjautumisikkuna.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T07:41:21.416Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AsiakkaidenHallinta.cs",
+              "DocumentMoniker": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\AsiakkaidenHallinta.cs",
+              "RelativeDocumentMoniker": "Hotellihallintaj\u00E4rjestelm\u00E4\\AsiakkaidenHallinta.cs",
+              "ToolTip": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\AsiakkaidenHallinta.cs",
+              "RelativeToolTip": "Hotellihallintaj\u00E4rjestelm\u00E4\\AsiakkaidenHallinta.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAwIoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T08:24:13.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AsiakkaidenHallinta.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\AsiakkaidenHallinta.Designer.cs",
+              "RelativeDocumentMoniker": "Hotellihallintaj\u00E4rjestelm\u00E4\\AsiakkaidenHallinta.Designer.cs",
+              "ToolTip": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\AsiakkaidenHallinta.Designer.cs",
+              "RelativeToolTip": "Hotellihallintaj\u00E4rjestelm\u00E4\\AsiakkaidenHallinta.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T11:06:12.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Paaikkuna.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\Paaikkuna.cs",
+              "RelativeDocumentMoniker": "Hotellihallintaj\u00E4rjestelm\u00E4\\Paaikkuna.cs",
+              "ToolTip": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\Paaikkuna.cs [Design]",
+              "RelativeToolTip": "Hotellihallintaj\u00E4rjestelm\u00E4\\Paaikkuna.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T11:18:48.82Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Paaikkuna.cs",
+              "DocumentMoniker": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\Paaikkuna.cs",
+              "RelativeDocumentMoniker": "Hotellihallintaj\u00E4rjestelm\u00E4\\Paaikkuna.cs",
+              "ToolTip": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\Paaikkuna.cs",
+              "RelativeToolTip": "Hotellihallintaj\u00E4rjestelm\u00E4\\Paaikkuna.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T11:27:19.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Kirjautumisikkuna.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\Kirjautumisikkuna.Designer.cs",
+              "RelativeDocumentMoniker": "Hotellihallintaj\u00E4rjestelm\u00E4\\Kirjautumisikkuna.Designer.cs",
+              "ToolTip": "C:\\Users\\roosa\\source\\repos\\ohjelmistokehittaja\\Hotellihallintaj\u00E4rjestelm\u00E4\\Hotellihallintaj\u00E4rjestelm\u00E4\\Kirjautumisikkuna.Designer.cs",
+              "RelativeToolTip": "Hotellihallintaj\u00E4rjestelm\u00E4\\Kirjautumisikkuna.Designer.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwBwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T07:29:14.498Z",
+              "EditorCaption": ""
             }
           ]
         }

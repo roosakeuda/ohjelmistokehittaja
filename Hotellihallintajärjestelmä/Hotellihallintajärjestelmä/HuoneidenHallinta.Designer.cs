@@ -30,10 +30,10 @@
         {
             this.panel1 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.enimiTB = new System.Windows.Forms.TextBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.huoneetDG = new System.Windows.Forms.DataGridView();
+            this.HuoneNroTB = new System.Windows.Forms.TextBox();
+            this.PuhelinTB = new System.Windows.Forms.TextBox();
+            this.HuoneTyyppiGB = new System.Windows.Forms.ComboBox();
             this.LisaaBT = new System.Windows.Forms.Button();
             this.MuokkaaBT = new System.Windows.Forms.Button();
             this.PoistaBT = new System.Windows.Forms.Button();
@@ -42,8 +42,10 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
+            this.KyllaRB = new System.Windows.Forms.RadioButton();
+            this.EiRB = new System.Windows.Forms.RadioButton();
             this.panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.huoneetDG)).BeginInit();
             this.SuspendLayout();
             // 
             // panel1
@@ -63,48 +65,55 @@
             this.label1.ForeColor = System.Drawing.Color.DarkSlateGray;
             this.label1.Location = new System.Drawing.Point(404, 20);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(457, 59);
+            this.label1.Size = new System.Drawing.Size(472, 59);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Varausten hallinta";
+            this.label1.Text = "Huoneiden hallinta";
             // 
-            // dataGridView1
+            // huoneetDG
             // 
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(557, 152);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.RowHeadersWidth = 62;
-            this.dataGridView1.RowTemplate.Height = 28;
-            this.dataGridView1.Size = new System.Drawing.Size(681, 352);
-            this.dataGridView1.TabIndex = 3;
+            this.huoneetDG.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.huoneetDG.Location = new System.Drawing.Point(557, 152);
+            this.huoneetDG.Name = "huoneetDG";
+            this.huoneetDG.RowHeadersWidth = 62;
+            this.huoneetDG.RowTemplate.Height = 28;
+            this.huoneetDG.Size = new System.Drawing.Size(681, 352);
+            this.huoneetDG.TabIndex = 3;
+            this.huoneetDG.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.huoneetDG_CellClick);
+            this.huoneetDG.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.huoneetDG_CellContentClick);
             // 
-            // enimiTB
+            // HuoneNroTB
             // 
-            this.enimiTB.BackColor = System.Drawing.Color.LightSalmon;
-            this.enimiTB.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.enimiTB.ForeColor = System.Drawing.Color.Sienna;
-            this.enimiTB.Location = new System.Drawing.Point(251, 152);
-            this.enimiTB.Name = "enimiTB";
-            this.enimiTB.Size = new System.Drawing.Size(268, 39);
-            this.enimiTB.TabIndex = 4;
+            this.HuoneNroTB.BackColor = System.Drawing.Color.LightSalmon;
+            this.HuoneNroTB.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.HuoneNroTB.ForeColor = System.Drawing.Color.Sienna;
+            this.HuoneNroTB.Location = new System.Drawing.Point(251, 152);
+            this.HuoneNroTB.Name = "HuoneNroTB";
+            this.HuoneNroTB.Size = new System.Drawing.Size(268, 39);
+            this.HuoneNroTB.TabIndex = 4;
             // 
-            // textBox1
+            // PuhelinTB
             // 
-            this.textBox1.BackColor = System.Drawing.Color.LightSalmon;
-            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.ForeColor = System.Drawing.Color.Sienna;
-            this.textBox1.Location = new System.Drawing.Point(251, 269);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(268, 39);
-            this.textBox1.TabIndex = 5;
+            this.PuhelinTB.BackColor = System.Drawing.Color.LightSalmon;
+            this.PuhelinTB.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.PuhelinTB.ForeColor = System.Drawing.Color.Sienna;
+            this.PuhelinTB.Location = new System.Drawing.Point(251, 269);
+            this.PuhelinTB.Name = "PuhelinTB";
+            this.PuhelinTB.Size = new System.Drawing.Size(268, 39);
+            this.PuhelinTB.TabIndex = 5;
             // 
-            // comboBox1
+            // HuoneTyyppiGB
             // 
-            this.comboBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(251, 210);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(268, 37);
-            this.comboBox1.TabIndex = 6;
+            this.HuoneTyyppiGB.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.HuoneTyyppiGB.FormattingEnabled = true;
+            this.HuoneTyyppiGB.Items.AddRange(new object[] {
+            "Yksilö",
+            "Pari",
+            "Perhe"});
+            this.HuoneTyyppiGB.Location = new System.Drawing.Point(251, 210);
+            this.HuoneTyyppiGB.Name = "HuoneTyyppiGB";
+            this.HuoneTyyppiGB.Size = new System.Drawing.Size(268, 37);
+            this.HuoneTyyppiGB.TabIndex = 6;
+            this.HuoneTyyppiGB.SelectedIndexChanged += new System.EventHandler(this.HuoneTyyppiTB_SelectedIndexChanged);
             // 
             // LisaaBT
             // 
@@ -117,8 +126,9 @@
             this.LisaaBT.Name = "LisaaBT";
             this.LisaaBT.Size = new System.Drawing.Size(238, 34);
             this.LisaaBT.TabIndex = 11;
-            this.LisaaBT.Text = "Lisää uusi varaus";
+            this.LisaaBT.Text = "Lisää uusi huone";
             this.LisaaBT.UseVisualStyleBackColor = false;
+            this.LisaaBT.Click += new System.EventHandler(this.LisaaBT_Click);
             // 
             // MuokkaaBT
             // 
@@ -132,6 +142,7 @@
             this.MuokkaaBT.TabIndex = 14;
             this.MuokkaaBT.Text = "Muokkaa";
             this.MuokkaaBT.UseVisualStyleBackColor = false;
+            this.MuokkaaBT.Click += new System.EventHandler(this.MuokkaaBT_Click);
             // 
             // PoistaBT
             // 
@@ -145,6 +156,7 @@
             this.PoistaBT.TabIndex = 15;
             this.PoistaBT.Text = "Poista";
             this.PoistaBT.UseVisualStyleBackColor = false;
+            this.PoistaBT.Click += new System.EventHandler(this.PoistaBT_Click);
             // 
             // TyhjennaBT
             // 
@@ -158,6 +170,7 @@
             this.TyhjennaBT.TabIndex = 16;
             this.TyhjennaBT.Text = "Tyhjennä kentät";
             this.TyhjennaBT.UseVisualStyleBackColor = false;
+            this.TyhjennaBT.Click += new System.EventHandler(this.TyhjennaBT_Click);
             // 
             // label2
             // 
@@ -207,12 +220,40 @@
             this.label5.TabIndex = 20;
             this.label5.Text = "Huoneen nro:";
             // 
+            // KyllaRB
+            // 
+            this.KyllaRB.AutoSize = true;
+            this.KyllaRB.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.KyllaRB.ForeColor = System.Drawing.Color.Red;
+            this.KyllaRB.Location = new System.Drawing.Point(251, 332);
+            this.KyllaRB.Name = "KyllaRB";
+            this.KyllaRB.Size = new System.Drawing.Size(95, 33);
+            this.KyllaRB.TabIndex = 21;
+            this.KyllaRB.TabStop = true;
+            this.KyllaRB.Text = "Kyllä";
+            this.KyllaRB.UseVisualStyleBackColor = true;
+            // 
+            // EiRB
+            // 
+            this.EiRB.AutoSize = true;
+            this.EiRB.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.EiRB.ForeColor = System.Drawing.Color.Lime;
+            this.EiRB.Location = new System.Drawing.Point(380, 332);
+            this.EiRB.Name = "EiRB";
+            this.EiRB.Size = new System.Drawing.Size(62, 33);
+            this.EiRB.TabIndex = 22;
+            this.EiRB.TabStop = true;
+            this.EiRB.Text = "Ei";
+            this.EiRB.UseVisualStyleBackColor = true;
+            // 
             // HuoneidenHallinta
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.ForestGreen;
             this.ClientSize = new System.Drawing.Size(1250, 531);
+            this.Controls.Add(this.EiRB);
+            this.Controls.Add(this.KyllaRB);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
@@ -221,17 +262,17 @@
             this.Controls.Add(this.PoistaBT);
             this.Controls.Add(this.MuokkaaBT);
             this.Controls.Add(this.LisaaBT);
-            this.Controls.Add(this.comboBox1);
-            this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.enimiTB);
-            this.Controls.Add(this.dataGridView1);
+            this.Controls.Add(this.HuoneTyyppiGB);
+            this.Controls.Add(this.PuhelinTB);
+            this.Controls.Add(this.HuoneNroTB);
+            this.Controls.Add(this.huoneetDG);
             this.Controls.Add(this.panel1);
             this.Name = "HuoneidenHallinta";
             this.Text = "HuoneidenHallinta";
             this.Load += new System.EventHandler(this.HuoneidenHallinta_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.huoneetDG)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -241,10 +282,10 @@
 
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.DataGridView dataGridView1;
-        private System.Windows.Forms.TextBox enimiTB;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.DataGridView huoneetDG;
+        private System.Windows.Forms.TextBox HuoneNroTB;
+        private System.Windows.Forms.TextBox PuhelinTB;
+        private System.Windows.Forms.ComboBox HuoneTyyppiGB;
         private System.Windows.Forms.Button LisaaBT;
         private System.Windows.Forms.Button MuokkaaBT;
         private System.Windows.Forms.Button PoistaBT;
@@ -253,5 +294,7 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.RadioButton KyllaRB;
+        private System.Windows.Forms.RadioButton EiRB;
     }
 }

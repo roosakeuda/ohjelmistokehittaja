@@ -62,5 +62,10 @@ namespace Hotellihallintajärjestelmä
                 }
             }
         }
+
+        private void SalasanaTB_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

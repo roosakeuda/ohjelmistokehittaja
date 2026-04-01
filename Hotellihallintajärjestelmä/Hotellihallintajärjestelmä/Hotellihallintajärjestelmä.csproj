@@ -95,18 +95,21 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ASIAKAS.cs" />
     <Compile Include="AsiakkaidenHallinta.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="AsiakkaidenHallinta.Designer.cs">
       <DependentUpon>AsiakkaidenHallinta.cs</DependentUpon>
     </Compile>
+    <Compile Include="Huone.cs" />
     <Compile Include="HuoneidenHallinta.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="HuoneidenHallinta.Designer.cs">
       <DependentUpon>HuoneidenHallinta.cs</DependentUpon>
     </Compile>
+    <Compile Include="VARAUKSET.cs" />
     <Compile Include="VaraustenHallinta.cs">
       <SubType>Form</SubType>
     </Compile>
